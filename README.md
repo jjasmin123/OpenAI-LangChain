@@ -5,6 +5,8 @@ then type command - code . ( to open VS code)
 create python env >= 3.9
 then install packages using requirements.txt file, then using strimLit run main.py or anyother additional files.
 
+Please ensure that you have your own API_Key
+
 # Langchain-examples
 
 step 1 - conda create -n lang-chain python==3.9 -y
